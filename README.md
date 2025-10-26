@@ -51,17 +51,19 @@ That’s it no server setup required.
 
 ### Homepage
 
-![Street Food Homepage](images/screenshot-home.png)
+![Street Food Homepage](images/screenshot-homepage.png)
 
 ### add review page 
 
-![add review page](images/screenshot-addreview.png)
+![add review page](images/screenshot-Yourreview.png)
 
 ### About & Contact Page
 
-![About and Contact](images/screenshot-about-contact.png)
+![About and Contact](images/screenshot-About&Contact.png)
 
-### 
+### Reviews page
+
+![Reviews](images/Screenshot-reviews.png)
 
 *(Add screenshots in the `images/` folder and update the file paths above.)*
 
@@ -69,5 +71,5 @@ That’s it no server setup required.
 ## Contact
 
 **Author:** Krushna Pawar
-GitHub: [@your-username](https://github.com/krushna-67)
+GitHub: [@krushna-67](https://github.com/krushna-67)
 
