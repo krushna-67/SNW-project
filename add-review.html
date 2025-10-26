@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="add-review.css">
+</head>
+<body>
+  <header>
+    <h1>Street Food Reviews</h1>
+    <p>Honest reviews of Pune’s most loved street foods</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="home.html">Home</a></li>
+      <li><a href="reviews.html" class="active">Reviews</a></li>
+      <li><a href="about-contact.html">About & Contact</a></li>
+    </ul>
+  </nav>
+  
+  <section class="add-review">
+    <h2>Share Your Street Food Experience</h2>
+    <p class="subtitle">Tell us about your favorite spot in Pune!</p>
+
+    <form class="review-form">
+      <label for="name">Your Name</label>
+      <input type="text" id="name" name="name" placeholder="Enter your name" required />
+
+      <label for="food">Food Item</label>
+      <input type="text" id="food" name="food" placeholder="What did you eat?" required />
+
+      <label for="place">Food Stall / Place</label>
+      <input type="text" id="place" name="place" placeholder="Where did you eat it?" required />
+
+      <label for="rating">Rating (1–5)</label>
+      <select id="rating" name="rating" required>
+        <option value="">Select rating</option>
+        <option value="5">⭐️⭐️⭐️⭐️⭐️</option>
+        <option value="4">⭐️⭐️⭐️⭐️</option>
+        <option value="3">⭐️⭐️⭐️</option>
+        <option value="2">⭐️⭐️</option>
+        <option value="1">⭐️</option>
+      </select>
+
+      <label for="review">Your Review</label>
+      <textarea id="review" name="review" rows="5" placeholder="Write your review here..." required></textarea>
+
+      <button type="submit" class="btn">Submit Review</button>
+    </form>
+  </section>
+
+  <footer>
+    <p>© 2025 Pune Street Eats </p>
+  </footer>
+</body>
+</html>
