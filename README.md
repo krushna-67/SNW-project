@@ -51,22 +51,19 @@ That’s it no server setup required.
 
 ### Homepage
 
-![Street Food Homepage](images/screenshot-homepage.png)
+![Street Food Homepage](images/Screenshot-homepage.png)
 
 ### add review page 
 
-![add review page](images/screenshot-Yourreview.png)
+![add review page](images/Screenshot-Yourreview.png)
 
 ### About & Contact Page
 
-![About and Contact](images/screenshot-About&Contact.png)
+![About and Contact](images/Screenshot-About&Contact.png)
 
 ### Reviews page
 
 ![Reviews](images/Screenshot-reviews.png)
-
-*(Add screenshots in the `images/` folder and update the file paths above.)*
-
 
 ## Contact
 
